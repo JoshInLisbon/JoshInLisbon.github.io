@@ -11,6 +11,10 @@ p {
 
 
 @media (max-width: 768px) {
+  .profile-img {
+    max-width: 61%;
+  }
+
   img {
     max-width: 100%;
   }
