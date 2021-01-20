@@ -7,6 +7,9 @@ p {
   font-size: 1.05em;
 }
 
+img {
+  max-width: 420px;
+}
 
 
 
@@ -14,7 +17,6 @@ p {
   .profile-img {
     max-width: 61%;
   }
-
   img {
     max-width: 100%;
   }
