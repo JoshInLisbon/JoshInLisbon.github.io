@@ -7,12 +7,12 @@ p {
   font-size: 1.05em;
 }
 
-img {
-  max-width: 100%;
-}
 
-/*.image-scroller {
-  max-width: 100%;
-  overflow-x: scroll;
-}*/
+
+
+@media (max-width: 768px) {
+  img {
+    max-width: 100%;
+  }
+}
 
